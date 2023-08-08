@@ -1,0 +1,13 @@
+sudo su
+yum install git -y
+git clone "reposit code"
+ls
+cd "file name"
+ls
+git status
+touch "file name"
+git status
+git add --all
+git commit -m "message"
+git status
+git push
